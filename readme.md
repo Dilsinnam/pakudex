@@ -19,8 +19,8 @@ Pakudex is a Python-based application that simulates a Pokédex for fictional cr
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Dilsinnam/pakudex.git
+```bash
+git clone https://github.com/Dilsinnam/pakudex.git
 
 2. Navigate to the project directory:
 ```bash
