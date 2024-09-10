@@ -23,10 +23,14 @@ Pakudex is a Python-based application that simulates a Pokédex for fictional cr
    git clone https://github.com/Dilsinnam/pakudex.git
 
 2. Navigate to the project directory:
+```bash
 cd pakudex
+```
 
 3. Run the program:
+```bash
 python pakuri_program.py
+```
 
 How to Use
 
@@ -39,6 +43,7 @@ How to Use
     Quit: Exit the program.
 
 Example
+```bash
 Pakuri Program
 ==============
 1. Add Pakuri
@@ -48,6 +53,7 @@ Pakuri Program
 5. Exit
 
 What would you like to do? 
+```
 
 Project Structure and OOP Concepts
 - Classes: The project uses Python classes to encapsulate the data and functionality for Pakuri (Pakuri class) and for managing the Pakudex (Pakudex class).
